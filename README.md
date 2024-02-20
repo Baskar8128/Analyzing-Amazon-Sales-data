@@ -1,8 +1,10 @@
 # Baskar8128-Analyzing-Amazon-Sales-data
 
 Project Title : Analyzing Amazon Sales data
- Technologies :  Data Science
- Domain :  E-commerce
+
+Technologies :  Data Science
+
+Domain :  E-commerce
  
 Problem Statement:
 
